@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "build"
+		},
+		{
+			"path": "Database"
+		},
+		{
+			"path": "File"
+		},
+		{
+			"path": "nbproject"
+		},
+		{
+			"path": "src"
+		},
+		{
+			"path": "test"
+		}
+	]
+}

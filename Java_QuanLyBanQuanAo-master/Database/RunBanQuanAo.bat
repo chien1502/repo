@@ -1,0 +1,1 @@
+sqlcmd -E -S .\Hieune -i BanQuanAo.sql
